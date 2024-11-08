@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "SDVDs"
+authors:
+  - family-names: "Jaszcz"
+    given-names: "Antoni"
+    orcid: "https://orcid.org/0000-0002-8997-0331"
+  - family-names: "Połap"
+    given-names: "Dawid"
+    orcid: "https://orcid.org/0000-0003-1972-5979"
+  - family-names: "Prokop"
+    given-names: "Katarzyna"
+    orcid: "https://orcid.org/0000-0002-3830-6182" 
+  - family-names: "Zaniewicz"
+    given-names: "Grzegorz"
+  - family-names: "Połap"
+    given-names: "Dawid"
+version: 1.0
+license: "ODbL-1.0"
+doi: "To-be-added"
+date-released: 2024-11-08
+url: https: "https://github.com/AJaszcz/SDVDs-Sonar-Drowned-Victim-Datasets"
+message: "Please cite this dataset and the associated paper when it becomes available."
