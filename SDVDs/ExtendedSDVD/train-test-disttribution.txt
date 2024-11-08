@@ -1,0 +1,6 @@
+class;train;test
+dv;138;46
+wrak;42;13
+kloda;23;5
+gruz;20;5
+total;223;69
