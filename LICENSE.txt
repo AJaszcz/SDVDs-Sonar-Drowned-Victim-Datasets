@@ -1,0 +1,16 @@
+This dataset (SDVDs) is made available under the Open Database License: 
+http://opendatacommons.org/licenses/odbl/1.0/. 
+
+You are free to:
+- Share: Copy, distribute, and use the database.
+- Create: Produce works from the database.
+- Adapt: Modify, transform, and build upon the database.
+
+As long as you:
+- Attribute: Credit the original creator(s) as specified below.
+- Share-Alike: Distribute any derived databases under the same license.
+
+Any rights in individual contents of the database are licensed under the Database Contents License (DbCL) v1.0:
+http://opendatacommons.org/licenses/dbcl/1.0/.
+
+For details on how to cite this dataset, please refer to the README file and CITATION.cff.
