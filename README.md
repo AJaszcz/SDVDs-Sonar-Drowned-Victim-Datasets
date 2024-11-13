@@ -53,7 +53,7 @@ SDVDs/
 ## Citation
 Please use the following placeholder citation until the paper is published:
 
-Your Name (2024). "Dataset Title." Version 1.0. Available at: https://github.com/AJaszcz/SDVDs-Sonar-Drowned-Victim-Datasets
+A. Jaszcz, et. al (2024). "SDVDs: Sonar Drowned Victim Datasets for image segmentation purposes" Version 1.0. Available at: https://github.com/AJaszcz/SDVDs-Sonar-Drowned-Victim-Datasets
 
 Once the associated paper is published, we will update this citation information.
 
