@@ -1,7 +1,7 @@
 # SDVDs: Sonar Drowned Victims Datasets
 
 ![License](https://img.shields.io/badge/license-ODbL%20v1.0-brightgreen)  
-**Version:** 1.0  
+**Version:** 2.0  
 **Authors:**
   - [Jaszcz Antoni](https://orcid.org/0000-0002-8997-0331)
   - [Połap Dawid](https://orcid.org/0000-0003-1972-5979)
