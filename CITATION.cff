@@ -1,4 +1,4 @@
-cff-version: 1.3.0
+cff-version: 1.2.0
 title: "SDVDs"
 authors:
   - family-names: "Jaszcz"
@@ -16,7 +16,6 @@ authors:
     given-names: "Natalia"
 version: 2.0
 license: "ODbL-1.0"
-doi: "To-be-added"
-date-released: 2024-11-13
+date-released: "2024-11-13"
 url: "https://github.com/AJaszcz/SDVDs-Sonar-Drowned-Victim-Datasets"
 message: "Please cite this dataset and the associated paper when it becomes available."
