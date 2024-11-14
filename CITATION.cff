@@ -15,6 +15,7 @@ authors:
   - family-names: "Wawrzyniak"
     given-names: "Natalia"
 version: 2.0
+doi: 10.5281/zenodo.14158923
 license: "ODbL-1.0"
 date-released: "2024-11-13"
 url: "https://github.com/AJaszcz/SDVDs-Sonar-Drowned-Victim-Datasets"
