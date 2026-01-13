@@ -1,22 +1,47 @@
 cff-version: 1.2.0
-title: "SDVDs"
-authors:
-  - family-names: "Jaszcz"
-    given-names: "Antoni"
-    orcid: "https://orcid.org/0000-0002-8997-0331"
-  - family-names: "Połap"
-    given-names: "Dawid"
-    orcid: "https://orcid.org/0000-0003-1972-5979"
-  - family-names: "Prokop"
-    given-names: "Katarzyna"
-    orcid: "https://orcid.org/0000-0002-3830-6182" 
-  - family-names: "Zaniewicz"
-    given-names: "Grzegorz"
-  - family-names: "Wawrzyniak"
-    given-names: "Natalia"
-version: 2.0
-doi: 10.5281/zenodo.14158923
-license: "ODbL-1.0"
-date-released: "2024-11-13"
-url: "https://github.com/AJaszcz/SDVDs-Sonar-Drowned-Victim-Datasets"
-message: "Please cite this dataset and the associated paper when it becomes available."
+message: "If you use this dataset, please cite the follwoing:"
+
+# Dataset paper
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Jaszcz"
+      given-names: "Antoni"
+      orcid: "https://orcid.org/0000-0002-8997-0331"
+    - family-names: "Połap"
+      given-names: "Dawid"
+      orcid: "https://orcid.org/0000-0003-1972-5979"
+    - family-names: "Prokop"
+      given-names: "Katarzyna"
+      orcid: "https://orcid.org/0000-0002-3830-6182" 
+    - family-names: "Zaniewicz"
+      given-names: "Grzegorz"
+    - family-names: "Wawrzyniak"
+      given-names: "Natalia"
+  title: "Attention-Enhanced U-Net for Finding Drowned Victims Underwater Using Sonar Equipment"
+  journal: "IEEE Journal of Oceanic Engineering"
+  year: 2026
+  doi: 10.1109/JOE.2025.3638526
+
+# Dataset repo
+references:
+  title: "SDVDs"
+  authors:
+    - family-names: "Jaszcz"
+      given-names: "Antoni"
+      orcid: "https://orcid.org/0000-0002-8997-0331"
+    - family-names: "Połap"
+      given-names: "Dawid"
+      orcid: "https://orcid.org/0000-0003-1972-5979"
+    - family-names: "Prokop"
+      given-names: "Katarzyna"
+      orcid: "https://orcid.org/0000-0002-3830-6182" 
+    - family-names: "Zaniewicz"
+      given-names: "Grzegorz"
+    - family-names: "Wawrzyniak"
+      given-names: "Natalia"
+  version: 2.0
+  doi: 10.5281/zenodo.14158923
+  license: "ODbL-1.0"
+  date-released: "2024-11-13"
+  url: "https://github.com/AJaszcz/SDVDs-Sonar-Drowned-Victim-Datasets"

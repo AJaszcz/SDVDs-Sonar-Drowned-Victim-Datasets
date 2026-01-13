@@ -51,11 +51,8 @@ SDVDs/
 └── CITATION.cff      # Citation information
 ```
 ## Citation
-Please use the following placeholder citation until the paper is published:
-
-A. Jaszcz, et. al (2024). "SDVDs: Sonar Drowned Victim Datasets for image segmentation purposes" Version 2.0. Available at: https://github.com/AJaszcz/SDVDs-Sonar-Drowned-Victim-Datasets
-
-Once the associated paper is published, we will update this citation information.
-
+Please use the following citations for this dataset:
+- Dataset paper: A. Jaszcz, D. Połap, N. Wawrzyniak and G. Zaniewicz (2026). "Attention-Enhanced U-Net for Finding Drowned Victims Underwater Using Sonar Equipment," in IEEE Journal of Oceanic Engineering, doi: 10.1109/JOE.2025.3638526.
+- Dataset repository: A. Jaszcz, et. al (2024). "SDVDs: Sonar Drowned Victim Datasets for image segmentation purposes" Version 2.0. Available at: https://github.com/AJaszcz/SDVDs-Sonar-Drowned-Victim-Datasets.
 
 ---
